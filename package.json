@@ -1,0 +1,24 @@
+{
+  "name": "k-mean_Nodejs",
+  "version": "1.0.0",
+  "description": "Example of use of the ML k-mean algorithm in nodejs for age group classification according to the attached worksheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroalpacheco/k-mean_Nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroalpacheco/k-mean_Nodejs/issues"
+  },
+  "homepage": "https://github.com/pedroalpacheco/k-mean_Nodejs#readme",
+  "dependencies": {
+    "ml-kmeans": "^4.2.1",
+    "skmeans": "^0.10.1"
+  }
+}
